@@ -7,7 +7,6 @@ as a fail, Find Api which takes 5 params
 2. Swagger UI is hosted at    
    http://localhost:8080/swagger-ui.html
 3. Validations
-4. 
 
 
 #### Pending Things
