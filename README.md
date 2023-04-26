@@ -20,6 +20,8 @@ Are those valid inputs ?
 
 
 -> How Validations are handled ? 
+As of now they are handled in MarginOrderValidator class, But we can think of a
+generic Validator model or utilize latest spring validator framework.
 
 -> How find is implemented ?
 
